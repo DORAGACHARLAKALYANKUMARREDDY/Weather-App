@@ -78,7 +78,7 @@ body{
 }
 .col img
 {
-    width:40px;
+    width:40px; 
     margin-right: 10px;
 }
 .humidity,.wind{
